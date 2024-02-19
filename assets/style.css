@@ -2563,6 +2563,7 @@ section.free-trial {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
+    text-decoration: none;
 
     @media (max-width: 1024px) {
       justify-content: flex-start;
